@@ -1,5 +1,5 @@
 # Python temperature dashboard
-DS18B10 temperature sensing and Darksky weather posting to an Adafruit IO dashboard
+DS18B10 temperature sensing on a Raspberry Pi, and Darksky weather posting to an Adafruit IO dashboard
 
 ## Prerequisites
 * Raspberry Pi

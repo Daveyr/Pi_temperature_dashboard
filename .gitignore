@@ -1,0 +1,4 @@
+*.db
+nohup*
+*.save
+api.txt
